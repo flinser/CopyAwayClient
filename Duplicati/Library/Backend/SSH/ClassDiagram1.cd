@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Duplicati.Library.Backend.OutputStreamWrapper" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAQAAgGAAAAABAAAAAAAAgAYgAAAGIQCA=</HashCode>
+      <FileName>OutputStreamWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duplicati.Library.Backend.SFTPCon" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAABAAQAAAAAAAAEAAAAAABAAAAAAAAg=</HashCode>
+      <FileName>SFTPCon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Duplicati.Library.Backend.SSH" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYECEABBYKCiAAJAAIAyBRAQRQWAEICgoIABCRBFQQo=</HashCode>
+      <FileName>SSHBackend.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Duplicati.Library.Backend.SSHCommonOptions" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAIAMgCCAQBAACACQAIACAAAAAoAAgICAAACAAAA=</HashCode>
+      <FileName>SSHCommonOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duplicati.Library.Backend.SSHSettingsControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAASACAAAQAAAACAAAAAQEQAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>SSHSettingsControl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Duplicati.Library.Backend.SSHUI" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIBMBqEKACAJICpYCmAmECKQJIAIACgYAFJgFAABA=</HashCode>
+      <FileName>SSHUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duplicati.Library.SharpExpect.SharpExpectProcess" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAECAAAAAIAgkgKAYAAAAABYSAEAAEACoGIAg=</HashCode>
+      <FileName>SharpExpectProcess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Duplicati.Library.Backend.Strings.SharpExpectProcess" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAABEAQAASAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duplicati.Library.Backend.Strings.SSHBackend" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAGAgGLwAqAAChEMkHOAFiBdAAIABBQoAAmIAgAoQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duplicati.Library.Backend.Strings.SSHCommonOptions" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAAAAAAAAABEAARCQAAAACAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duplicati.Library.Backend.Strings.SSHSettingsControl" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAADEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duplicati.Library.Backend.Strings.SSHUI" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAADEAABAQAIAAAAAAAAAAABAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
